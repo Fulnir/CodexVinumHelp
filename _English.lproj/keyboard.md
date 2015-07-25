@@ -7,3 +7,7 @@ order: .INF
 Action                      | Shortcut
 :-------------------------- | :--------------------------
 Quit application            | Command (⌘)-Q or apply hammer to CPU
+Open Company Editor         | Option (⌥)-Command (⌘)-C
+Open Grape Editor           | Option (⌥)-Command (⌘)-G
+Open Purchase Editor        | Option (⌥)-Command (⌘)-P
+

@@ -52,3 +52,8 @@ Was this help page useful? Send feedback.
 
 <i class="fa fa-globe"></i> Germany
 
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="6582913" data-counter="right"></script>
+
+

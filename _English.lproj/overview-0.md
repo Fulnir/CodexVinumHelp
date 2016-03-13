@@ -1,6 +1,6 @@
 ---
 title: What is Codex Vinum?
-group: Codex Vinum overview
+group: Overview
 description: Overview functionality
 Keywords: overview
 order: -.INF

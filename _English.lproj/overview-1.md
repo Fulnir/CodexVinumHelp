@@ -1,6 +1,6 @@
 ---
 title: Sample Workflow
-group: Codex Vinum overview
+group: Overview
 description: Overview functionality
 Keywords: overview
 order: -.INF

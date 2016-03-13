@@ -5,18 +5,38 @@ keywords: support, knowledge base, tickets
 order: .INF
 ---
 
-![Under Construction](img/Baustelle.png)
+## Knowledge base
+
+### Got a question about „Codex Vinum"?
+
+Search our knowledge base for how-tos, troubleshooting guides, tips and tricks.
+[Knowledge base](winesoftware.uservoice.com/knowledgebase)
+
+## How do I contact Edwin Bühler?
+
+Can’t find your answer in the „Codex Vinum" knowledge base? We’d love to hear from you. Here’s how to get in touch.
+
+## <i class='fa fa-medkit fa-2x'></i> Help Desk
 
 
-Codex Vinum Ideas
+- [<i class='fa fa-book'></i> Knowledge base, "Start page"](https://winesoftware.uservoice.com/knowledgebase)
+- [<i class='fa fa-road'></i> Knowledge base, "Roadmap"](https://winesoftware.uservoice.com/knowledgebase/articles/655261-roadmap)
+- <i class='fa fa-film'></i> Tutorials, "Screencasts"  <i class="fa fa-cog fa-spin"></i>
+- [<i class='fa fa-bullhorn'></i> Feedback, "Add your own ideas now!"](https://winesoftware.uservoice.com/forums/268515-general)
+- [<i class='fa fa-medkit'></i> 📢 Uservoice](https://winesoftware.uservoice.com)
 
-Knowledge base
 
 
-Further details about Codex Vinum can be found on the project website [wine-software.net](http://www.wine-software.net).
+### General feedback
+
+Take a look at what we’re currently working on at Codex Vinum. Please share your stories to help us build a product that best fits your needs.
+How can we make the Codex Vinum platform better?
 
 
-For more information about adding wines, and other topics, visit the project website [wine-software.net](http://www.wine-software.net).
+Further details about Codex Vinum can be found on the project website [codex-vinum.com](http://www.codex-vinum.com).
+
+
+For more information about adding wines, and other topics, visit the project website [codex-vinum.com](http://www.codex-vinum.com).
 
 
 Was this help page useful? Send feedback.
@@ -30,21 +50,20 @@ Was this help page useful? Send feedback.
 
 
 
-## <i class='fa fa-medkit fa-2x'></i> Help Desk
 
-- [<i class='fa fa-book'></i> Knowledge base, "Start page"](https://winesoftware.uservoice.com/knowledgebase)
-- [<i class='fa fa-road'></i> Knowledge base, "Roadmap"](https://winesoftware.uservoice.com/knowledgebase/articles/655261-roadmap)
-- <i class='fa fa-film'></i> Tutorials, "Screencasts"  <i class="fa fa-cog fa-spin"></i>
-- [<i class='fa fa-bullhorn'></i> Feedback, "Add your own ideas now!"](https://winesoftware.uservoice.com/forums/268515-general)
-- [<i class='fa fa-medkit'></i> Support, "Contact"](http://www.wine-software.net/support.html)
+## 💡 TIP
 
+### Stay in the loop!
+
+We send email updates about once a month. You’ll get the latest Codex Vinum news, super cool tips, special sale announcements, and even sneak peeks of upcoming releases.
+[Newsletter](eepurl.com/bu1KhP)
 
 
 ## <i class='fa fa-envelope fa-2x'></i> Contact Address
 
 <i class="fa fa-male"></i> Edwin Bühler
 
-<i class="fa fa-envelope-o"></i> <img src="img/epost.png">
+<i class="fa fa-envelope-o"></i> ![epost.png](img/epost.png)
 
 <i class="fa fa-home"></i> Op de Berg 27
 
@@ -55,5 +74,6 @@ Was this help page useful? Send feedback.
 
 <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
 <script type="IN/FollowCompany" data-id="6582913" data-counter="right"></script>
+
 
 
